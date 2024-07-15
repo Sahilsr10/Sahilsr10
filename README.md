@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Srivastava</h1>
 <h3 align="center">Oracle Certified GenAI Professional. AI & Machine Learning Enthusiast, Aspiring Software Developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilsr10" alt="sahilsr10" /></a> </p>
+
 - 🔭 I’m currently working on **Online Learning Platform**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in C++**
@@ -9,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@svch77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@svch77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahilsriv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahilsriv/" height="30" width="40" /></a>
+<a href="https://twitter.com/svch77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="svch77" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahilsriv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilsriv" height="30" width="40" /></a>
 <a href="https://instagram.com/sahil_srivastava25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_srivastava25" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sahilsrv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sahilsrv" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sahilsrivastav12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sahilsrivastav12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sahilsrivastav12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahilsrivastav12" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sahilsrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sahilsrv" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sahilsrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahilsrv" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sahilsrivastava773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sahilsrivastava773" height="30" width="40" /></a>
