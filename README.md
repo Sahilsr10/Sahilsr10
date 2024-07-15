@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Srivastava</h1>
 <h3 align="center">Oracle Certified GenAI Professional. AI & Machine Learning Enthusiast, Aspiring Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilsr10" alt="sahilsr10" /></a> </p>
-
 - 🔭 I’m currently working on **Online Learning Platform**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in C++**
