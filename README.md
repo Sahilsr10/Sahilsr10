@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Srivastava</h1>
-<h3 align="center">Oracle Certified GenAI Professional. AI & Machine Learning Enthusiast, Aspiring Software Developer</h3>
+<h3 align="center">Oracle Certified GenAI Professional. Data Science Enthusiast</h3>
 
 - 🔭 I’m currently working on **Online Learning Platform**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms in C++**
+- 🌱 I’m currently exploring **Data Science with Machine Learning Algorithms**
 
 - 📫 How to reach me **sahilsrivastava773@gmail.com**
 
