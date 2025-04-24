@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Srivastava</h1>
 <h3 align="center">Oracle Certified GenAI Professional. Data Science Enthusiast</h3>
 
-- 🔭 I’m currently working on **News Headline Sarcasm Detection Model**
-
 - 🌱 I’m currently exploring **Data Science with Machine Learning Algorithms**
 
 - 📫 How to reach me **sahilsrivastava773@gmail.com**
